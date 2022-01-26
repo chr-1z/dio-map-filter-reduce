@@ -11,3 +11,15 @@
 
 ## Map vs forEach
 ![image](https://user-images.githubusercontent.com/51412784/150889766-0b5ed3c4-39d5-40af-a84d-53174f2e82fd.png)
+
+# Aula 2 - Filter
+
+## O que é? 
+![image](https://user-images.githubusercontent.com/51412784/151236359-c6df00bf-a414-4de7-a9f2-f93e03edfbd9.png)
+
+## Sintaxe
+![image](https://user-images.githubusercontent.com/51412784/151236490-28c4438e-0eb0-475a-b496-348db7702796.png)
+
+## Exemplo: 
+![image](https://user-images.githubusercontent.com/51412784/151236857-112623d5-ec38-4d79-bba5-79f07b4f362b.png)
+
