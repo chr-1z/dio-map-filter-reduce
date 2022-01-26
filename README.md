@@ -23,3 +23,17 @@
 ## Exemplo: 
 ![image](https://user-images.githubusercontent.com/51412784/151236857-112623d5-ec38-4d79-bba5-79f07b4f362b.png)
 
+# Aula 3 - Reduce
+
+## O que é?
+![image](https://user-images.githubusercontent.com/51412784/151237157-ab02d2a5-72bb-4581-b681-3c08257ffaf0.png)
+
+## Sintaxe
+![image](https://user-images.githubusercontent.com/51412784/151237285-7448584c-cc3d-4e5f-b757-efd98ecca404.png)
+
+## Exemplo:
+![image](https://user-images.githubusercontent.com/51412784/151237378-87d52f56-6a06-478a-84dc-d64f822ec811.png)
+
+
+
+
